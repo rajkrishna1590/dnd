@@ -1,3 +1,5 @@
-id,name,widgets
-1,cts,"raj,test,hi"
-2,cts,"raj,test,hi"
+type,widgets
+cts1,"raj,test,hi"
+cts2,"raj,test,hi"
+cts3,"raj,test,hi222"
+cts4,"raj,test,hi111"
